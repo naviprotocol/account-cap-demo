@@ -1,0 +1,4 @@
+**/build
+*.log.*
+.coverage_map.mvcov
+.trace
